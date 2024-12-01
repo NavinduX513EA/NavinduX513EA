@@ -68,8 +68,6 @@
 
 <br clear="both">
 
-<div align="right">
-  <img height="150" src="https://images.app.goo.gl/wWvSpgrTp7XzLpBo8"  />
-</div>
+
 
 ###
