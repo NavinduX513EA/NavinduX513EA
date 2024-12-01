@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm Navindu Thilakshana</h2>
+<h1 align="center">Hi 👋! I'm Navindu Thilakshana</h1>
 
 ###
 
